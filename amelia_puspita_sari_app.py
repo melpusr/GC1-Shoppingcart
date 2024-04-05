@@ -125,7 +125,7 @@ def main(): #fungsi utama untuk menjalankan program dan untuk unittest nanti. ji
             dan mengembalikan total harga keseluruhan.
             '''
 
-        elif select == 5: #pilih menu 5
+        else select == 5: #pilih menu 5
             print("Terima kasih telah berbelanja di toko kami!")
             break #digunakan untuk memberhentikan loop. Tanpa break, loop akan terus berlanjut .
 
